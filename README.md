@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA/DEV
 - 💞️ I’m looking to collaborate on mern stack project
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- Solved 500+ coding questions on Leetcode/GeeksForGeeks
 
 <!---
 Pravsingh02/Pravsingh02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
